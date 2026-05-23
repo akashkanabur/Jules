@@ -1,3 +1,4 @@
+
 # Jules by Google — Complete Overview
 
 ## Introduction
@@ -493,3 +494,6 @@ Toward:
 * AI-driven software engineering workflows
 
 Jules is a major example of that transition.
+
+
+<img width="1584" height="875" alt="Screenshot 2026-05-23 120000" src="https://github.com/user-attachments/assets/392b5690-aafd-46ae-96cd-322a50ff90c8" />
